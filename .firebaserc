@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ok2meet": {
+      "hosting": {
+        "ok2meet": [
+          "ok2meet"
+        ]
+      }
+    }
+  }
+}
